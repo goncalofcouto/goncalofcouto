@@ -34,9 +34,9 @@ Currently studying and improving my skills.
 
 ### 📚 Currently studying
 <div style="display: inline_block">
-  	<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  	<img align="center" alt="Tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-        <img align="center" alt="unity" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  	<img align="center" alt="TypeScript"  width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  	<img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  	<img align="center" alt="Tailwind"  width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+        <img align="center" alt="unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
           
 </div>
