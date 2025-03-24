@@ -1,20 +1,42 @@
-### Olá! Eu sou o Gonçalo Couto👋
+<div align="center">
+  
+## ⚔️ Hello! ⚔️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alo-couto/)
+### I'm Gonçalo, also known as Couto! 🦊
+
+Currently studying and improving my skills.
+
+<img src="https://media.tenor.com/w7ThV57JRLkAAAAC/luffy.gif" width="450px" align="right" />
+
+</div>
+
+### About me
+- 📽 I record videos about programming on [**Youtube**](https://www.youtube.com/@Couto.Overflow)
+- 📴 I'm really passionate about games, anime and music.
+- ✅ Computer Science and engineering
 
 
-![Couto GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalofcouto&show_icons=true&theme=tokyonight)
+### 🔗 Find me here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=FF7CA7)](https://www.linkedin.com/in/gon%C3%A7alo-couto/)
+[![Youtube](https://img.shields.io/badge/Youtube-FFF?style=for-the-badge&logo=Youtube&logoColor=red)](https://www.youtube.com/@Couto.Overflow)
+[![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=Instagram&logoColor=FF7CA7)](https://www.instagram.com/coutozhin/)
 
-## Tecnologias que eu uso no meu dia
+### 🛠️ Main Skills and Tools
+<div style="display: inline_block">
+	<img alt ="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+	<img alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+	<img alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        <img alt ="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+	<img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+	<img alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+	<img alt="mysql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
 
-<div style="display: inline_block"><br/>
-	<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-	<img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-	<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-	<img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-	<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-	<img alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-	<img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-	<img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+### 📚 Currently studying
+<div style="display: inline_block">
+  	<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  	<img align="center" alt="Tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+        <img align="center" alt="unity" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+          
 </div>
