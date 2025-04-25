@@ -19,7 +19,7 @@ Currently studying and improving my skills.
 ### 🔗 Find me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=FF7CA7)](https://www.linkedin.com/in/gon%C3%A7alo-couto/)
 [![Youtube](https://img.shields.io/badge/Youtube-FFF?style=for-the-badge&logo=Youtube&logoColor=red)](https://www.youtube.com/@Couto.Overflow)
-[![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=Instagram&logoColor=FF7CA7)](https://www.instagram.com/coutozhin/)
+[![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/coutozhin/)
 
 ### 🛠️ Main Skills and Tools
 <div style="display: inline_block">
